@@ -17,6 +17,7 @@
     "publishConfig": {
         "access": "public"
     },
+    "repository": "github:Kira-Kitsune/better-currency-codes",
     "keywords": [
         "currency",
         "currency codes",
