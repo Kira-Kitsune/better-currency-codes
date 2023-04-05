@@ -154,5 +154,3 @@ export function symbol(args: CodeInput) {
 }
 
 export { CurrencyData as CurrentCurrency };
-
-console.log(codeAlphaNamePair());
