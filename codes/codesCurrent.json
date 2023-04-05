@@ -1,0 +1,5095 @@
+[
+    {
+        "entities": [
+            {
+                "name": "United Arab Emirates",
+                "code": "AE"
+            }
+        ],
+        "code": {
+            "alphabetic": "AED",
+            "numeric": "784"
+        },
+        "name": {
+            "full": "United Arab Emirates Dirham",
+            "denoymn": "UAE",
+            "unit": {
+                "single": "Dirham",
+                "plural": "Dirhams"
+            },
+            "subunit": {
+                "single": "Fils",
+                "plural": "Fils"
+            }
+        },
+        "symbol": {
+            "international": "DH",
+            "native": "د.إ"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Afghanistan",
+                "code": "AF"
+            }
+        ],
+        "code": {
+            "alphabetic": "AFN",
+            "numeric": "971"
+        },
+        "name": {
+            "full": "Afghan Afghani",
+            "denoymn": "Afghan",
+            "unit": {
+                "single": "Afghani",
+                "plural": "Afghani"
+            },
+            "subunit": {
+                "single": "Pul",
+                "plural": "Pul"
+            }
+        },
+        "symbol": {
+            "international": "Af",
+            "native": "؋"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Albania",
+                "code": "AL"
+            }
+        ],
+        "code": {
+            "alphabetic": "ALL",
+            "numeric": "008"
+        },
+        "name": {
+            "full": "Albanian Lek",
+            "denoymn": "Albanian",
+            "unit": {
+                "single": "Lek",
+                "plural": "Leke"
+            },
+            "subunit": {
+                "single": "Qindarkë",
+                "plural": "Qindarka"
+            }
+        },
+        "symbol": {
+            "international": "L",
+            "native": "L"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Armenia",
+                "code": "AM"
+            }
+        ],
+        "code": {
+            "alphabetic": "AMD",
+            "numeric": "051"
+        },
+        "name": {
+            "full": "Armenian Dram",
+            "denoymn": "Armenian",
+            "unit": {
+                "single": "Luma",
+                "plural": "Luma"
+            },
+            "subunit": {
+                "single": "Dram",
+                "plural": "Dram"
+            }
+        },
+        "symbol": {
+            "international": "֏",
+            "native": "֏"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Curaçao",
+                "code": "CW"
+            },
+            {
+                "name": "Sint Maarten",
+                "code": "SX"
+            }
+        ],
+        "code": {
+            "alphabetic": "ANG",
+            "numeric": "532"
+        },
+        "name": {
+            "full": "Netherlands Antillean Guilder",
+            "denoymn": "Netherlands Antillean",
+            "unit": {
+                "single": "Guilder",
+                "plural": "Guilders"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "NAƒ",
+            "native": "ƒ"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Angola",
+                "code": "AO"
+            }
+        ],
+        "code": {
+            "alphabetic": "AOA",
+            "numeric": "973"
+        },
+        "name": {
+            "full": "Angolan Kwanza",
+            "denoymn": "Angolan",
+            "unit": {
+                "single": "Kwanza",
+                "plural": "Kwanza"
+            },
+            "subunit": {
+                "single": "Centimo",
+                "plural": "Centimos"
+            }
+        },
+        "symbol": {
+            "international": "Kz",
+            "native": "Kz"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Argentina",
+                "code": "AR"
+            }
+        ],
+        "code": {
+            "alphabetic": "ARS",
+            "numeric": "032"
+        },
+        "name": {
+            "full": "Argentine Peso",
+            "denoymn": "Argentine",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "Arg$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Australia",
+                "code": "AU"
+            },
+            {
+                "name": "Christmas Island",
+                "code": "CX"
+            },
+            {
+                "name": "Cocos (Keeling) Islands",
+                "code": "CC"
+            },
+            {
+                "name": "Heard Island and McDonald Islands",
+                "code": "HM"
+            },
+            {
+                "name": "Kiribati",
+                "code": "KI"
+            },
+            {
+                "name": "Nauru",
+                "code": "NR"
+            },
+            {
+                "name": "Norfolk Island",
+                "code": "NF"
+            },
+            {
+                "name": "Tuvalu",
+                "code": "TV"
+            }
+        ],
+        "code": {
+            "alphabetic": "AUD",
+            "numeric": "036"
+        },
+        "name": {
+            "full": "Australian Dollar",
+            "denoymn": "Australian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "AU$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Aruba",
+                "code": "AW"
+            }
+        ],
+        "code": {
+            "alphabetic": "AWG",
+            "numeric": "533"
+        },
+        "name": {
+            "full": "Aruban Florin",
+            "denoymn": "Aruban",
+            "unit": {
+                "single": "Florin",
+                "plural": "Florin"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cent"
+            }
+        },
+        "symbol": {
+            "international": "Afl",
+            "native": "ƒ"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Azerbaijan",
+                "code": "AZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "AZN",
+            "numeric": "944"
+        },
+        "name": {
+            "full": "Azerbaijani Manat",
+            "denoymn": "Azerbaijani",
+            "unit": {
+                "single": "Manat",
+                "plural": "Manat"
+            },
+            "subunit": {
+                "single": "Gapik",
+                "plural": "Gapik"
+            }
+        },
+        "symbol": {
+            "international": "₼",
+            "native": "₼"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bosnia and Herzegovina",
+                "code": "BA"
+            }
+        ],
+        "code": {
+            "alphabetic": "BAM",
+            "numeric": "977"
+        },
+        "name": {
+            "full": "Bosnia and Herzegovina Convertible Mark",
+            "denoymn": "Bosnia-Herzegovina",
+            "unit": {
+                "single": "Convertible Mark",
+                "plural": "Convertible Marks"
+            },
+            "subunit": {
+                "single": "Fening",
+                "plural": "Fening"
+            }
+        },
+        "symbol": {
+            "international": "KM",
+            "native": "KM"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Barbados",
+                "code": "BB"
+            }
+        ],
+        "code": {
+            "alphabetic": "BBD",
+            "numeric": "052"
+        },
+        "name": {
+            "full": "Barbadian Dollar",
+            "denoymn": "Barbadian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "BBD$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bangladesh",
+                "code": "BD"
+            }
+        ],
+        "code": {
+            "alphabetic": "BDT",
+            "numeric": "050"
+        },
+        "name": {
+            "full": "Bangladeshi Taka",
+            "denoymn": "Bangladeshi",
+            "unit": {
+                "single": "Taka",
+                "plural": "Taka"
+            },
+            "subunit": {
+                "single": "Poisha",
+                "plural": "Poisha"
+            }
+        },
+        "symbol": {
+            "international": "৳",
+            "native": "৳"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bulgaria",
+                "code": "BG"
+            }
+        ],
+        "code": {
+            "alphabetic": "BGN",
+            "numeric": "975"
+        },
+        "name": {
+            "full": "Bulgarian Lev",
+            "denoymn": "Bulgarian",
+            "unit": {
+                "single": "Lev",
+                "plural": "Leva"
+            },
+            "subunit": {
+                "single": "Stotinka",
+                "plural": "Stotinki"
+            }
+        },
+        "symbol": {
+            "international": "лв.",
+            "native": "лв."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bahrain",
+                "code": "BH"
+            }
+        ],
+        "code": {
+            "alphabetic": "BHD",
+            "numeric": "048"
+        },
+        "name": {
+            "full": "Bahraini Dinar",
+            "denoymn": "Bahraini",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Fils",
+                "plural": "Fulūs"
+            }
+        },
+        "symbol": {
+            "international": "BD",
+            "native": ".د.ب"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Burudi",
+                "code": "BI"
+            }
+        ],
+        "code": {
+            "alphabetic": "BIF",
+            "numeric": "108"
+        },
+        "name": {
+            "full": "Burudian Franc",
+            "denoymn": "Burudian",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "FBu",
+            "native": "FBu"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bermuda",
+                "code": "BM"
+            }
+        ],
+        "code": {
+            "alphabetic": "BMD",
+            "numeric": "060"
+        },
+        "name": {
+            "full": "Bermudian Dollar",
+            "denoymn": "Bermudian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "BD$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Brunei",
+                "code": "BN"
+            }
+        ],
+        "code": {
+            "alphabetic": "BND",
+            "numeric": "096"
+        },
+        "name": {
+            "full": "Brunei Dollar",
+            "denoymn": "Brunei",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "B$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bolivia",
+                "code": "BO"
+            }
+        ],
+        "code": {
+            "alphabetic": "BOB",
+            "numeric": "068"
+        },
+        "name": {
+            "full": "Bolivian Boliviano",
+            "denoymn": "Bolivian",
+            "unit": {
+                "single": "Boliviano",
+                "plural": "Boliviano"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "Bs",
+            "native": "Bs"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Brazil",
+                "code": "BR"
+            }
+        ],
+        "code": {
+            "alphabetic": "BRL",
+            "numeric": "986"
+        },
+        "name": {
+            "full": "Brazilian Real",
+            "denoymn": "Brazilian",
+            "unit": {
+                "single": "Real",
+                "plural": "Reais"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "R$",
+            "native": "R$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bahamas",
+                "code": "BS"
+            }
+        ],
+        "code": {
+            "alphabetic": "BSD",
+            "numeric": "044"
+        },
+        "name": {
+            "full": "Bahamian Dollar",
+            "denoymn": "Bahamian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "B$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Bhutan",
+                "code": "BT"
+            }
+        ],
+        "code": {
+            "alphabetic": "BTN",
+            "numeric": "064"
+        },
+        "name": {
+            "full": "Bhutanese Ngultrum",
+            "denoymn": "Bhutanese",
+            "unit": {
+                "single": "Ngultrum",
+                "plural": "Ngultrums"
+            },
+            "subunit": {
+                "single": "Chhertum",
+                "plural": "Chhertum"
+            }
+        },
+        "symbol": {
+            "international": "Nu.",
+            "native": "Nu."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Botswana",
+                "code": "BW"
+            }
+        ],
+        "code": {
+            "alphabetic": "BWP",
+            "numeric": "072"
+        },
+        "name": {
+            "full": "Botswana Pula",
+            "denoymn": "Botswana",
+            "unit": {
+                "single": "Pula",
+                "plural": "Pula"
+            },
+            "subunit": {
+                "single": "Thebe",
+                "plural": "Thebe"
+            }
+        },
+        "symbol": {
+            "international": "P",
+            "native": "P"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Belarus",
+                "code": "BY"
+            }
+        ],
+        "code": {
+            "alphabetic": "BYN",
+            "numeric": "933"
+        },
+        "name": {
+            "full": "Belarusian Ruble",
+            "denoymn": "Belarusian",
+            "unit": {
+                "single": "Ruble",
+                "plural": "Rubles"
+            },
+            "subunit": {
+                "single": "Kopeck",
+                "plural": "Kopecks"
+            }
+        },
+        "symbol": {
+            "international": "Rbl",
+            "native": "Rbl"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Belize",
+                "code": "BZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "BZD",
+            "numeric": "084"
+        },
+        "name": {
+            "full": "Belize Dollar",
+            "denoymn": "Belize",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "BZ$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Canada",
+                "code": "CA"
+            }
+        ],
+        "code": {
+            "alphabetic": "CAD",
+            "numeric": "124"
+        },
+        "name": {
+            "full": "Canadian Dollar",
+            "denoymn": "Canadian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "CA$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Democratic Republic of the Congo",
+                "code": "CD"
+            }
+        ],
+        "code": {
+            "alphabetic": "CDF",
+            "numeric": "976"
+        },
+        "name": {
+            "full": "Congolese Franc",
+            "denoymn": "Congolese",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "FC",
+            "native": "FC"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Switzerland",
+                "code": "CH"
+            },
+            {
+                "name": "Liechtenstein",
+                "code": "LI"
+            }
+        ],
+        "code": {
+            "alphabetic": "CHF",
+            "numeric": "756"
+        },
+        "name": {
+            "full": "Swiss Franc",
+            "denoymn": "Swiss",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "CHF",
+            "native": "CHF"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Chile",
+                "code": "CL"
+            }
+        ],
+        "code": {
+            "alphabetic": "CLP",
+            "numeric": "152"
+        },
+        "name": {
+            "full": "Chilean Peso",
+            "denoymn": "Chilean",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "CLP$",
+            "native": "$"
+        },
+        "decimal": 0,
+        "subdivided": 0
+    },
+    {
+        "entities": [
+            {
+                "name": "China",
+                "code": "CN"
+            }
+        ],
+        "code": {
+            "alphabetic": "CNY",
+            "numeric": "156"
+        },
+        "name": {
+            "full": "Chinese Renminbi",
+            "denoymn": "Chinese",
+            "unit": {
+                "single": "Yuan",
+                "plural": "Yuan"
+            },
+            "subunit": {
+                "single": "Fen",
+                "plural": "Fen"
+            }
+        },
+        "symbol": {
+            "international": "CN¥",
+            "native": "¥"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Colombia",
+                "code": "CO"
+            }
+        ],
+        "code": {
+            "alphabetic": "COP",
+            "numeric": "170"
+        },
+        "name": {
+            "full": "Colombian Peso",
+            "denoymn": "Colombian",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "Col$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Costa Rica",
+                "code": "CR"
+            }
+        ],
+        "code": {
+            "alphabetic": "CRC",
+            "numeric": "188"
+        },
+        "name": {
+            "full": "Costa Rican Colón",
+            "denoymn": "Costa Rican",
+            "unit": {
+                "single": "Colón",
+                "plural": "Colones"
+            },
+            "subunit": {
+                "single": "Céntimo",
+                "plural": "Céntimos"
+            }
+        },
+        "symbol": {
+            "international": "₡",
+            "native": "₡"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Cuba",
+                "code": "CU"
+            }
+        ],
+        "code": {
+            "alphabetic": "CUP",
+            "numeric": "192"
+        },
+        "name": {
+            "full": "Cuban Peso",
+            "denoymn": "Cuban",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "$MN",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Cape Verde",
+                "code": "CV"
+            }
+        ],
+        "code": {
+            "alphabetic": "CVE",
+            "numeric": "132"
+        },
+        "name": {
+            "full": "Cape Verdean Escudo",
+            "denoymn": "Cape Verdean",
+            "unit": {
+                "single": "Escudo",
+                "plural": "Escudos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Czechia",
+                "code": "CZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "CZK",
+            "numeric": "203"
+        },
+        "name": {
+            "full": "Czech Koruna",
+            "denoymn": "Czech",
+            "unit": {
+                "single": "Koruna",
+                "plural": "Koruny"
+            },
+            "subunit": {
+                "single": "Haléř",
+                "plural": "Haléř"
+            }
+        },
+        "symbol": {
+            "international": "Kč",
+            "native": "Kč"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Djibouti",
+                "code": "DJ"
+            }
+        ],
+        "code": {
+            "alphabetic": "DJF",
+            "numeric": "262"
+        },
+        "name": {
+            "full": "Djiboutian Franc",
+            "denoymn": "Djiboutian",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "Fdj",
+            "native": "Fdj"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Denmark",
+                "code": "DK"
+            },
+            {
+                "name": "Faroe Islands",
+                "code": "FO"
+            },
+            {
+                "name": "Greenland",
+                "code": "GL"
+            }
+        ],
+        "code": {
+            "alphabetic": "DKK",
+            "numeric": "208"
+        },
+        "name": {
+            "full": "Danish Krone",
+            "denoymn": "Danish",
+            "unit": {
+                "single": "Krone",
+                "plural": "Kroner"
+            },
+            "subunit": {
+                "single": "Øre",
+                "plural": "Øre"
+            }
+        },
+        "symbol": {
+            "international": "kr.",
+            "native": "kr."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Dominican Republic",
+                "code": "DO"
+            }
+        ],
+        "code": {
+            "alphabetic": "DOP",
+            "numeric": "214"
+        },
+        "name": {
+            "full": "Dominican Peso",
+            "denoymn": "Dominican",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "RD$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Algeria",
+                "code": "DZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "DZD",
+            "numeric": "012"
+        },
+        "name": {
+            "full": "Algerian Dinar",
+            "denoymn": "Algerian",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "DA",
+            "native": "دج"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Egypt",
+                "code": "EG"
+            }
+        ],
+        "code": {
+            "alphabetic": "EGP",
+            "numeric": "818"
+        },
+        "name": {
+            "full": "Egyptian Pound",
+            "denoymn": "Egyptian",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Piastre",
+                "plural": "Piastres"
+            }
+        },
+        "symbol": {
+            "international": "LE",
+            "native": "ج.م"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Eritea",
+                "code": "ER"
+            }
+        ],
+        "code": {
+            "alphabetic": "ERN",
+            "numeric": "232"
+        },
+        "name": {
+            "full": "Eritrean Nakfa",
+            "denoymn": "Eritrean",
+            "unit": {
+                "single": "Nakfa",
+                "plural": "Nakfa"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Nkf",
+            "native": "ناكفا"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Ethiopia",
+                "code": "ET"
+            }
+        ],
+        "code": {
+            "alphabetic": "ETB",
+            "numeric": "230"
+        },
+        "name": {
+            "full": "Ethiopian Birr",
+            "denoymn": "Ethiopian",
+            "unit": {
+                "single": "Birr",
+                "plural": "Birr"
+            },
+            "subunit": {
+                "single": "Santim",
+                "plural": "Santim"
+            }
+        },
+        "symbol": {
+            "international": "Br",
+            "native": "ብር"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "European Union",
+                "code": "EU"
+            },
+            {
+                "name": "Åland Islands",
+                "code": "AX"
+            },
+            {
+                "name": "Andorra",
+                "code": "AD"
+            },
+            {
+                "name": "Austria",
+                "code": "AT"
+            },
+            {
+                "name": "Belgium",
+                "code": "BE"
+            },
+            {
+                "name": "Croatia",
+                "code": "HR"
+            },
+            {
+                "name": "Cyprus",
+                "code": "CY"
+            },
+            {
+                "name": "Estonia",
+                "code": "EE"
+            },
+            {
+                "name": "Finland",
+                "code": "FI"
+            },
+            {
+                "name": "France",
+                "code": "FR"
+            },
+            {
+                "name": "French Southern and Antarctic Lands",
+                "code": "TF"
+            },
+            {
+                "name": "Germany",
+                "code": "DE"
+            },
+            {
+                "name": "Greece",
+                "code": "GR"
+            },
+            {
+                "name": "Guadeloupe",
+                "code": "GP"
+            },
+            {
+                "name": "Ireland",
+                "code": "IE"
+            },
+            {
+                "name": "Italy",
+                "code": "IT"
+            },
+            {
+                "name": "Kosovo",
+                "code": "XK"
+            },
+            {
+                "name": "Lativa",
+                "code": "LV"
+            },
+            {
+                "name": "Lithuania",
+                "code": "LT"
+            },
+            {
+                "name": "Luxembourg",
+                "code": "LU"
+            },
+            {
+                "name": "Malta",
+                "code": "MT"
+            },
+            {
+                "name": "French Guiana",
+                "code": "GF"
+            },
+            {
+                "name": "Martinique",
+                "code": "MQ"
+            },
+            {
+                "name": "Mayotte",
+                "code": "YT"
+            },
+            {
+                "name": "Monaco",
+                "code": "MC"
+            },
+            {
+                "name": "Montenegro",
+                "code": "ME"
+            },
+            {
+                "name": "Netherlands",
+                "code": "NL"
+            },
+            {
+                "name": "Portugal",
+                "code": "PT"
+            },
+            {
+                "name": "Réunion",
+                "code": "RE"
+            },
+            {
+                "name": "Saint Barthélemy",
+                "code": "BL"
+            },
+            {
+                "name": "Saint Martin",
+                "code": "MF"
+            },
+            {
+                "name": "Saint Pierre and Miquelon",
+                "code": "PM"
+            },
+            {
+                "name": "San Marino",
+                "code": "SM"
+            },
+            {
+                "name": "Slovakia",
+                "code": "SK"
+            },
+            {
+                "name": "Slovenia",
+                "code": "SI"
+            },
+            {
+                "name": "Spain",
+                "code": "ES"
+            },
+            {
+                "name": "Vatican City",
+                "code": "VA"
+            }
+        ],
+        "code": {
+            "alphabetic": "EUR",
+            "numeric": "978"
+        },
+        "name": {
+            "full": "Euro",
+            "denoymn": "",
+            "unit": {
+                "single": "Euro",
+                "plural": "Euros"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "€",
+            "native": "€"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Fiji",
+                "code": "FJ"
+            }
+        ],
+        "code": {
+            "alphabetic": "FJD",
+            "numeric": "242"
+        },
+        "name": {
+            "full": "Fijian Dollar",
+            "denoymn": "Fijian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Fj$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Falkland Islands",
+                "code": "FK"
+            }
+        ],
+        "code": {
+            "alphabetic": "FKP",
+            "numeric": "238"
+        },
+        "name": {
+            "full": "Falkland Islands Pound",
+            "denoymn": "Falkland Islands",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Penny",
+                "plural": "Pence"
+            }
+        },
+        "symbol": {
+            "international": "£",
+            "native": "£"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "United Kingdom",
+                "code": "GB"
+            },
+            {
+                "name": "Isle of Man",
+                "code": "IM"
+            },
+            {
+                "name": "Jersey",
+                "code": "JE"
+            },
+            {
+                "name": "Guernsey",
+                "code": "GG"
+            },
+            {
+                "name": "Tristan da Cunha",
+                "code": "SH-TA"
+            },
+            {
+                "name": "British Indian Ocean Territory",
+                "code": "IO"
+            }
+        ],
+        "code": {
+            "alphabetic": "GBP",
+            "numeric": "826"
+        },
+        "name": {
+            "full": "Pound Sterling",
+            "denoymn": "Pound Sterling",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Penny",
+                "plural": "Pence"
+            }
+        },
+        "symbol": {
+            "international": "£",
+            "native": "£"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Georgia",
+                "code": "GE"
+            }
+        ],
+        "code": {
+            "alphabetic": "GEL",
+            "numeric": "981"
+        },
+        "name": {
+            "full": "Georgian Lari",
+            "denoymn": "Georgian",
+            "unit": {
+                "single": "Lari",
+                "plural": "Lari"
+            },
+            "subunit": {
+                "single": "Tetri",
+                "plural": "Tetri"
+            }
+        },
+        "symbol": {
+            "international": "₾",
+            "native": "₾"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Ghana",
+                "code": "GH"
+            }
+        ],
+        "code": {
+            "alphabetic": "GHS",
+            "numeric": "936"
+        },
+        "name": {
+            "full": "Ghanaian Cedi",
+            "denoymn": "Ghanaian",
+            "unit": {
+                "single": "Cedi",
+                "plural": "Cedis"
+            },
+            "subunit": {
+                "single": "Pesewa",
+                "plural": "Pesewas"
+            }
+        },
+        "symbol": {
+            "international": "GH₵",
+            "native": "GH₵"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Gibraltar",
+                "code": "GI"
+            }
+        ],
+        "code": {
+            "alphabetic": "GIP",
+            "numeric": "292"
+        },
+        "name": {
+            "full": "Gibraltar Pound",
+            "denoymn": "Gibraltar",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Penny",
+                "plural": "Pence"
+            }
+        },
+        "symbol": {
+            "international": "£",
+            "native": "£"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Gambia",
+                "code": "GM"
+            }
+        ],
+        "code": {
+            "alphabetic": "GMD",
+            "numeric": "270"
+        },
+        "name": {
+            "full": "Gambian Dalasi",
+            "denoymn": "Gambian",
+            "unit": {
+                "single": "Dalasi",
+                "plural": "Dalasis"
+            },
+            "subunit": {
+                "single": "Butut",
+                "plural": "Bututs"
+            }
+        },
+        "symbol": {
+            "international": "D",
+            "native": "D"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Guinea",
+                "code": "GN"
+            }
+        ],
+        "code": {
+            "alphabetic": "GNF",
+            "numeric": "324"
+        },
+        "name": {
+            "full": "Guinean Franc",
+            "denoymn": "Guinean",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "FG",
+            "native": "FG"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Guatemala",
+                "code": "GT"
+            }
+        ],
+        "code": {
+            "alphabetic": "GTQ",
+            "numeric": "320"
+        },
+        "name": {
+            "full": "Guatemalan Quetzal",
+            "denoymn": "Guatemalan",
+            "unit": {
+                "single": "Quetzal",
+                "plural": "Quetzales"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "Q",
+            "native": "Q"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Guyana",
+                "code": "GY"
+            }
+        ],
+        "code": {
+            "alphabetic": "GYD",
+            "numeric": "328"
+        },
+        "name": {
+            "full": "Guyanese Dollar",
+            "denoymn": "Guyanese",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "GY$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Hong Kong",
+                "code": "HK"
+            }
+        ],
+        "code": {
+            "alphabetic": "HKD",
+            "numeric": "344"
+        },
+        "name": {
+            "full": "Hong Kong Dollar",
+            "denoymn": "Hong Kong",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "HK$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Honduras",
+                "code": "HN"
+            }
+        ],
+        "code": {
+            "alphabetic": "HNL",
+            "numeric": "340"
+        },
+        "name": {
+            "full": "Honduran Lempira",
+            "denoymn": "Honduran",
+            "unit": {
+                "single": "Lempira",
+                "plural": "Lempiras"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "L",
+            "native": "L"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Haiti",
+                "code": "HT"
+            }
+        ],
+        "code": {
+            "alphabetic": "HTG",
+            "numeric": "332"
+        },
+        "name": {
+            "full": "Haitian Gourde",
+            "denoymn": "Haitian",
+            "unit": {
+                "single": "Gourde",
+                "plural": "Gourdes"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "G",
+            "native": "G"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Hungary",
+                "code": "HU"
+            }
+        ],
+        "code": {
+            "alphabetic": "HUF",
+            "numeric": "348"
+        },
+        "name": {
+            "full": "Hungarian Forint",
+            "denoymn": "Hungarian",
+            "unit": {
+                "single": "Forint",
+                "plural": "Forintok"
+            },
+            "subunit": {
+                "single": "Fillér",
+                "plural": "Fillér"
+            }
+        },
+        "symbol": {
+            "international": "Ft",
+            "native": "Ft"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Indonesia",
+                "code": "ID"
+            }
+        ],
+        "code": {
+            "alphabetic": "IDR",
+            "numeric": "360"
+        },
+        "name": {
+            "full": "Indonesian Rupiah",
+            "denoymn": "Indonesian",
+            "unit": {
+                "single": "Rupiah",
+                "plural": "Rupiah"
+            },
+            "subunit": {
+                "single": "Sen",
+                "plural": "Sen"
+            }
+        },
+        "symbol": {
+            "international": "Rp",
+            "native": "Rp"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Israel",
+                "code": "IL"
+            },
+            {
+                "name": "State of Palestine",
+                "code": "PS"
+            }
+        ],
+        "code": {
+            "alphabetic": "ILS",
+            "numeric": "376"
+        },
+        "name": {
+            "full": "New Israeli Shekel",
+            "denoymn": "Israeli",
+            "unit": {
+                "single": "Shekel",
+                "plural": "Shekels"
+            },
+            "subunit": {
+                "single": "Agora",
+                "plural": "Agorot"
+            }
+        },
+        "symbol": {
+            "international": "₪",
+            "native": "₪"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "India",
+                "code": "IN"
+            },
+            {
+                "name": "Bhutan",
+                "code": "BT"
+            }
+        ],
+        "code": {
+            "alphabetic": "INR",
+            "numeric": "356"
+        },
+        "name": {
+            "full": "Indian Rupee",
+            "denoymn": "Indian",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Paisa",
+                "plural": "Paise"
+            }
+        },
+        "symbol": {
+            "international": "₹",
+            "native": "₹"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Iraq",
+                "code": "IQ"
+            }
+        ],
+        "code": {
+            "alphabetic": "IQD",
+            "numeric": "368"
+        },
+        "name": {
+            "full": "Iraqi Dinar",
+            "denoymn": "Iraqi",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Fils",
+                "plural": "Fils"
+            }
+        },
+        "symbol": {
+            "international": "ID",
+            "native": "د.ع"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Iran",
+                "code": "IR"
+            }
+        ],
+        "code": {
+            "alphabetic": "IRR",
+            "numeric": "364"
+        },
+        "name": {
+            "full": "Iranian Rial",
+            "denoymn": "Iranian",
+            "unit": {
+                "single": "Rial",
+                "plural": "Rials"
+            },
+            "subunit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            }
+        },
+        "symbol": {
+            "international": "RI",
+            "native": "﷼"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Iceland",
+                "code": "IS"
+            }
+        ],
+        "code": {
+            "alphabetic": "ISK",
+            "numeric": "352"
+        },
+        "name": {
+            "full": "Icelandic Króna",
+            "denoymn": "Icelandic",
+            "unit": {
+                "single": "Króna",
+                "plural": "Krónur"
+            },
+            "subunit": {
+                "single": "Eyrir",
+                "plural": "Aurar"
+            }
+        },
+        "symbol": {
+            "international": "kr",
+            "native": "kr"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Jamaica",
+                "code": "JM"
+            }
+        ],
+        "code": {
+            "alphabetic": "JMD",
+            "numeric": "388"
+        },
+        "name": {
+            "full": "Jamaican Dollar",
+            "denoymn": "Jamaican",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "J$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Jordan",
+                "code": "JO"
+            }
+        ],
+        "code": {
+            "alphabetic": "JOD",
+            "numeric": "400"
+        },
+        "name": {
+            "full": "Jordanian Dinar",
+            "denoymn": "Jordanian",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Fils",
+                "plural": "Fils"
+            }
+        },
+        "symbol": {
+            "international": "د.أ",
+            "native": "د.أ"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Japan",
+                "code": "JP"
+            }
+        ],
+        "code": {
+            "alphabetic": "JPY",
+            "numeric": "392"
+        },
+        "name": {
+            "full": "Japanese Yen",
+            "denoymn": "Japanese",
+            "unit": {
+                "single": "Yen",
+                "plural": "Yen"
+            },
+            "subunit": {
+                "single": "Sen",
+                "plural": "Sen"
+            }
+        },
+        "symbol": {
+            "international": "JP¥",
+            "native": "¥"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Kenya",
+                "code": "KE"
+            }
+        ],
+        "code": {
+            "alphabetic": "KES",
+            "numeric": "404"
+        },
+        "name": {
+            "full": "Kenyan Shilling",
+            "denoymn": "Kenyan",
+            "unit": {
+                "single": "Shilling",
+                "plural": "Shillings"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "KSh",
+            "native": "/="
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+
+    {
+        "entities": [
+            {
+                "name": "Kyrgyzstan",
+                "code": "KG"
+            }
+        ],
+        "code": {
+            "alphabetic": "KGS",
+            "numeric": "417"
+        },
+        "name": {
+            "full": "Kyrgystani Som",
+            "denoymn": "Kyrgystani",
+            "unit": {
+                "single": "Som",
+                "plural": "Som"
+            },
+            "subunit": {
+                "single": "Tyiyn",
+                "plural": "Tyiyn"
+            }
+        },
+        "symbol": {
+            "international": "с",
+            "native": "с"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Cambodia",
+                "code": "KH"
+            }
+        ],
+        "code": {
+            "alphabetic": "KHR",
+            "numeric": "116"
+        },
+        "name": {
+            "full": "Cambodian Riel",
+            "denoymn": "Cambodian",
+            "unit": {
+                "single": "Riel",
+                "plural": "Riel"
+            },
+            "subunit": {
+                "single": "Sen",
+                "plural": "Sen"
+            }
+        },
+        "symbol": {
+            "international": "៛",
+            "native": "៛"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Comoro",
+                "code": "KM"
+            }
+        ],
+        "code": {
+            "alphabetic": "KMF",
+            "numeric": "174"
+        },
+        "name": {
+            "full": "Comoroian Franc",
+            "denoymn": "Comoroian",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "FC",
+            "native": "FC"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "North Korea",
+                "code": "NP"
+            }
+        ],
+        "code": {
+            "alphabetic": "NPW",
+            "numeric": "408"
+        },
+        "name": {
+            "full": "North Korean Won",
+            "denoymn": "North Korean",
+            "unit": {
+                "single": "Won",
+                "plural": "Won"
+            },
+            "subunit": {
+                "single": "Chon",
+                "plural": "Chon"
+            }
+        },
+        "symbol": {
+            "international": "₩",
+            "native": "₩"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "South Korea",
+                "code": "KR"
+            }
+        ],
+        "code": {
+            "alphabetic": "KRW",
+            "numeric": "410"
+        },
+        "name": {
+            "full": "South Korean Won",
+            "denoymn": "South Korean",
+            "unit": {
+                "single": "Won",
+                "plural": "Won"
+            },
+            "subunit": {
+                "single": "Jeon",
+                "plural": "Jeon"
+            }
+        },
+        "symbol": {
+            "international": "₩",
+            "native": "₩"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Kuwait",
+                "code": "KW"
+            }
+        ],
+        "code": {
+            "alphabetic": "KWD",
+            "numeric": "414"
+        },
+        "name": {
+            "full": "Kuwaiti Dinar",
+            "denoymn": "Kuwaiti",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Fils",
+                "plural": "Fils"
+            }
+        },
+        "symbol": {
+            "international": "KD",
+            "native": "د.ك"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Cayman Islands",
+                "code": "KY"
+            }
+        ],
+        "code": {
+            "alphabetic": "KYD",
+            "numeric": "136"
+        },
+        "name": {
+            "full": "Cayman Islands Dollar",
+            "denoymn": "Cayman Islands",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "CI$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Kazakhstan",
+                "code": "KZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "KZT",
+            "numeric": "398"
+        },
+        "name": {
+            "full": "Kazakhstani Tenge",
+            "denoymn": "Kazakhstani",
+            "unit": {
+                "single": "Tenge",
+                "plural": "Tenge"
+            },
+            "subunit": {
+                "single": "Tiyn",
+                "plural": "Tiyn"
+            }
+        },
+        "symbol": {
+            "international": "₸",
+            "native": "₸"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Laos",
+                "code": "LA"
+            }
+        ],
+        "code": {
+            "alphabetic": "LAK",
+            "numeric": "418"
+        },
+        "name": {
+            "full": "Lao Kip",
+            "denoymn": "Lao",
+            "unit": {
+                "single": "Kip",
+                "plural": "Kip"
+            },
+            "subunit": {
+                "single": "Att",
+                "plural": "Att"
+            }
+        },
+        "symbol": {
+            "international": "₭",
+            "native": "₭"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Lebanon",
+                "code": "LB"
+            }
+        ],
+        "code": {
+            "alphabetic": "LBP",
+            "numeric": "422"
+        },
+        "name": {
+            "full": "Lebanese Pound",
+            "denoymn": "Lebanese",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Piastre",
+                "plural": "Piastres"
+            }
+        },
+        "symbol": {
+            "international": "LL",
+            "native": "ل.ل."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Sri Lanka",
+                "code": "LK"
+            }
+        ],
+        "code": {
+            "alphabetic": "LKR",
+            "numeric": "144"
+        },
+        "name": {
+            "full": "Sri Lankan Rupee",
+            "denoymn": "Sri Lankan",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Rs",
+            "native": "රු"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Liberia",
+                "code": "LR"
+            }
+        ],
+        "code": {
+            "alphabetic": "LRD",
+            "numeric": "430"
+        },
+        "name": {
+            "full": "Liberian Dollar",
+            "denoymn": "Liberian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "LD$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Lesotho",
+                "code": "LS"
+            }
+        ],
+        "code": {
+            "alphabetic": "LSL",
+            "numeric": "426"
+        },
+        "name": {
+            "full": "Lesotho Loti",
+            "denoymn": "Lesotho",
+            "unit": {
+                "single": "Loti",
+                "plural": "Maloti"
+            },
+            "subunit": {
+                "single": "Sente",
+                "plural": "Lisente"
+            }
+        },
+        "symbol": {
+            "international": "L",
+            "native": "L"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Libya",
+                "code": "LY"
+            }
+        ],
+        "code": {
+            "alphabetic": "LYD",
+            "numeric": "434"
+        },
+        "name": {
+            "full": "Libyan Dinar",
+            "denoymn": "Libyan",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Dirham",
+                "plural": "Dirhams"
+            }
+        },
+        "symbol": {
+            "international": "LD",
+            "native": "ل.د"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Morocca",
+                "code": "MA"
+            },
+            {
+                "name": "Western Sahara",
+                "code": "EH"
+            }
+        ],
+        "code": {
+            "alphabetic": "MAD",
+            "numeric": "504"
+        },
+        "name": {
+            "full": "Moroccan Dirham",
+            "denoymn": "Moroccan",
+            "unit": {
+                "single": "Dirham",
+                "plural": "Dirhams"
+            },
+            "subunit": {
+                "single": "Santim",
+                "plural": "Santim"
+            }
+        },
+        "symbol": {
+            "international": "DH",
+            "native": "DH"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Moldova",
+                "code": "MD"
+            }
+        ],
+        "code": {
+            "alphabetic": "MDL",
+            "numeric": "498"
+        },
+        "name": {
+            "full": "Moldovan Leu",
+            "denoymn": "Moldovan",
+            "unit": {
+                "single": "Leu",
+                "plural": "Lei"
+            },
+            "subunit": {
+                "single": "Ban",
+                "plural": "Bani"
+            }
+        },
+        "symbol": {
+            "international": "L",
+            "native": "L"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Madagascar",
+                "code": "MG"
+            }
+        ],
+        "code": {
+            "alphabetic": "MGA",
+            "numeric": "969"
+        },
+        "name": {
+            "full": "Malagasy Ariary",
+            "denoymn": "Malagasy",
+            "unit": {
+                "single": "Ariary",
+                "plural": "Ariary"
+            },
+            "subunit": {
+                "single": "Iraimbilanja",
+                "plural": "Iraimbilanja"
+            }
+        },
+        "symbol": {
+            "international": "Ar",
+            "native": "Ar"
+        },
+        "decimal": 2,
+        "subdivided": 5
+    },
+    {
+        "entities": [
+            {
+                "name": "North Macedonia",
+                "code": "MK"
+            }
+        ],
+        "code": {
+            "alphabetic": "MKD",
+            "numeric": "807"
+        },
+        "name": {
+            "full": "Macedonian Denar",
+            "denoymn": "Macedonian",
+            "unit": {
+                "single": "Denar",
+                "plural": "Denari"
+            },
+            "subunit": {
+                "single": "Deni",
+                "plural": "Deni"
+            }
+        },
+        "symbol": {
+            "international": "DEN",
+            "native": "ден"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Myammar",
+                "code": "MM"
+            }
+        ],
+        "code": {
+            "alphabetic": "MMK",
+            "numeric": "104"
+        },
+        "name": {
+            "full": "Myammar Kyat",
+            "denoymn": "Myammar",
+            "unit": {
+                "single": "Kyat",
+                "plural": "Kyats"
+            },
+            "subunit": {
+                "single": "Pya",
+                "plural": "Pyas"
+            }
+        },
+        "symbol": {
+            "international": "Ks",
+            "native": "Ks"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Mongolia",
+                "code": "MN"
+            }
+        ],
+        "code": {
+            "alphabetic": "MNT",
+            "numeric": "496"
+        },
+        "name": {
+            "full": "Mongolian Tögrög",
+            "denoymn": "Mongolian",
+            "unit": {
+                "single": "Tögrög",
+                "plural": "Tögrög"
+            },
+            "subunit": {
+                "single": "Möngö",
+                "plural": "Möngö"
+            }
+        },
+        "symbol": {
+            "international": "₮",
+            "native": "₮"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Macau",
+                "code": "MO"
+            }
+        ],
+        "code": {
+            "alphabetic": "MOP",
+            "numeric": "446"
+        },
+        "name": {
+            "full": "Macanese Pataca",
+            "denoymn": "Macanese",
+            "unit": {
+                "single": "Pataca",
+                "plural": "Patacas"
+            },
+            "subunit": {
+                "single": "Avo",
+                "plural": "Avos"
+            }
+        },
+        "symbol": {
+            "international": "MOP$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Mauritania",
+                "code": "MR"
+            }
+        ],
+        "code": {
+            "alphabetic": "MRU",
+            "numeric": "929"
+        },
+        "name": {
+            "full": "Mauritanian Ouguiya",
+            "denoymn": "Mauritanian",
+            "unit": {
+                "single": "Ouguiya",
+                "plural": "Ouguiya"
+            },
+            "subunit": {
+                "single": "Khoums",
+                "plural": "Khoums"
+            }
+        },
+        "symbol": {
+            "international": "UM",
+            "native": "UM"
+        },
+        "decimal": 2,
+        "subdivided": 5
+    },
+    {
+        "entities": [
+            {
+                "name": "Mauritius",
+                "code": "MU"
+            }
+        ],
+        "code": {
+            "alphabetic": "MUR",
+            "numeric": "480"
+        },
+        "name": {
+            "full": "Mauritian Rupee",
+            "denoymn": "Mauritian",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Rs",
+            "native": "Rs"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Maldives",
+                "code": "MV"
+            }
+        ],
+        "code": {
+            "alphabetic": "MVR",
+            "numeric": "462"
+        },
+        "name": {
+            "full": "Maldivian Rufiyaa",
+            "denoymn": "Maldivian",
+            "unit": {
+                "single": "Rufiyaa",
+                "plural": "Rufiyaa"
+            },
+            "subunit": {
+                "single": "Laari",
+                "plural": "Laari"
+            }
+        },
+        "symbol": {
+            "international": "MVR",
+            "native": ".ރ"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Malawi",
+                "code": "MW"
+            }
+        ],
+        "code": {
+            "alphabetic": "MWK",
+            "numeric": "454"
+        },
+        "name": {
+            "full": "Malawian Kwacha",
+            "denoymn": "Malawian",
+            "unit": {
+                "single": "Kwacha",
+                "plural": "Kwacha"
+            },
+            "subunit": {
+                "single": "Tambala",
+                "plural": "Tambala"
+            }
+        },
+        "symbol": {
+            "international": "K",
+            "native": "K"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Mexico",
+                "code": "MX"
+            }
+        ],
+        "code": {
+            "alphabetic": "MXN",
+            "numeric": "484"
+        },
+        "name": {
+            "full": "Mexican Peso",
+            "denoymn": "Mexican",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "Mex$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Malaysian Ringgit",
+                "code": "MY"
+            }
+        ],
+        "code": {
+            "alphabetic": "MYR",
+            "numeric": "458"
+        },
+        "name": {
+            "full": "Malaysian Ringgit",
+            "denoymn": "Malaysian",
+            "unit": {
+                "single": "Ringgit",
+                "plural": "Ringgit"
+            },
+            "subunit": {
+                "single": "Sen",
+                "plural": "Sen"
+            }
+        },
+        "symbol": {
+            "international": "RM",
+            "native": "RM"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Mozambique",
+                "code": "MZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "MZN",
+            "numeric": "943"
+        },
+        "name": {
+            "full": "Mozambican Metical",
+            "denoymn": "Mozambican",
+            "unit": {
+                "single": "Metical",
+                "plural": "Meticais"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "MT",
+            "native": "MT"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Namibia",
+                "code": "NA"
+            }
+        ],
+        "code": {
+            "alphabetic": "NAD",
+            "numeric": "516"
+        },
+        "name": {
+            "full": "Namibian Dollar",
+            "denoymn": "Namibian",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "N$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Nigeria",
+                "code": "NG"
+            }
+        ],
+        "code": {
+            "alphabetic": "NGN",
+            "numeric": "566"
+        },
+        "name": {
+            "full": "Nigerian Naira",
+            "denoymn": "Nigerian",
+            "unit": {
+                "single": "Naira",
+                "plural": "Naira"
+            },
+            "subunit": {
+                "single": "Kobo",
+                "plural": "Kobo"
+            }
+        },
+        "symbol": {
+            "international": "₦",
+            "native": "₦"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Nicaragua",
+                "code": "NI"
+            }
+        ],
+        "code": {
+            "alphabetic": "NIO",
+            "numeric": "558"
+        },
+        "name": {
+            "full": "Nicaraguan Córdoba",
+            "denoymn": "Nicaraguan",
+            "unit": {
+                "single": "Córdoba",
+                "plural": "Córdobas"
+            },
+            "subunit": {
+                "single": "Centavo",
+                "plural": "Centavos"
+            }
+        },
+        "symbol": {
+            "international": "C$",
+            "native": "C$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Norway",
+                "code": "NO"
+            },
+            {
+                "name": "Svalbard and Jan Mayen",
+                "code": "SJ"
+            },
+            {
+                "name": "Bouvet Island",
+                "code": "BV"
+            }
+        ],
+        "code": {
+            "alphabetic": "NOK",
+            "numeric": "578"
+        },
+        "name": {
+            "full": "Norwegian Krone",
+            "denoymn": "Norwegian",
+            "unit": {
+                "single": "Krone",
+                "plural": "Kroner"
+            },
+            "subunit": {
+                "single": "Øre",
+                "plural": "Øre"
+            }
+        },
+        "symbol": {
+            "international": "kr",
+            "native": "kr"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Nepal",
+                "code": "NP"
+            }
+        ],
+        "code": {
+            "alphabetic": "NPR",
+            "numeric": "524"
+        },
+        "name": {
+            "full": "Nepalese Rupee",
+            "denoymn": "Nepalese",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Paisa",
+                "plural": "Paisa"
+            }
+        },
+        "symbol": {
+            "international": "रु",
+            "native": "रु"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "New Zealand",
+                "code": "NZ"
+            },
+            {
+                "name": "Cook Islands",
+                "code": "CK"
+            },
+            {
+                "name": "Niue",
+                "code": "NU"
+            },
+            {
+                "name": "Pitcairn Islands",
+                "code": "PN"
+            },
+            {
+                "name": "Tokelau",
+                "code": "TK"
+            }
+        ],
+        "code": {
+            "alphabetic": "NZD",
+            "numeric": "554"
+        },
+        "name": {
+            "full": "New Zealand Dollar",
+            "denoymn": "New Zealand",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "NZ$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Oman",
+                "code": "OM"
+            }
+        ],
+        "code": {
+            "alphabetic": "OMR",
+            "numeric": "512"
+        },
+        "name": {
+            "full": "Omani Rial",
+            "denoymn": "Omani",
+            "unit": {
+                "single": "Rial",
+                "plural": "Rials"
+            },
+            "subunit": {
+                "single": "Baisa",
+                "plural": "Baisa"
+            }
+        },
+        "symbol": {
+            "international": "R.O",
+            "native": "﷼"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Panama",
+                "code": "PA"
+            }
+        ],
+        "code": {
+            "alphabetic": "PAB",
+            "numeric": "590"
+        },
+        "name": {
+            "full": "Panamanian Balboa",
+            "denoymn": "Panamanian",
+            "unit": {
+                "single": "Balboa",
+                "plural": "Balboa"
+            },
+            "subunit": {
+                "single": "Centésimo",
+                "plural": "Centésimos"
+            }
+        },
+        "symbol": {
+            "international": "B/.",
+            "native": "B/."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Peru",
+                "code": "PE"
+            }
+        ],
+        "code": {
+            "alphabetic": "PEN",
+            "numeric": "604"
+        },
+        "name": {
+            "full": "Peruvian Sol",
+            "denoymn": "Peruvian",
+            "unit": {
+                "single": "Sol",
+                "plural": "Soles"
+            },
+            "subunit": {
+                "single": "Céntimo",
+                "plural": "Céntimos"
+            }
+        },
+        "symbol": {
+            "international": "S/",
+            "native": "S/"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Papua New Guinea",
+                "code": "PG"
+            }
+        ],
+        "code": {
+            "alphabetic": "PGK",
+            "numeric": "598"
+        },
+        "name": {
+            "full": "Papua New Guinean Kina",
+            "denoymn": "Papua New Guinean",
+            "unit": {
+                "single": "Kina",
+                "plural": "Kina"
+            },
+            "subunit": {
+                "single": "Toea",
+                "plural": "Toea"
+            }
+        },
+        "symbol": {
+            "international": "K",
+            "native": "K"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Philipines",
+                "code": "PH"
+            }
+        ],
+        "code": {
+            "alphabetic": "PHP",
+            "numeric": "608"
+        },
+        "name": {
+            "full": "Philipine Peso",
+            "denoymn": "Philipine",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Sentimo",
+                "plural": "Sentimo"
+            }
+        },
+        "symbol": {
+            "international": "₱",
+            "native": "₱"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Pakistan",
+                "code": "PK"
+            }
+        ],
+        "code": {
+            "alphabetic": "PKR",
+            "numeric": "586"
+        },
+        "name": {
+            "full": "Pakistani Rupee",
+            "denoymn": "Pakistani",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Paisa",
+                "plural": "Paisa"
+            }
+        },
+        "symbol": {
+            "international": "Rs.",
+            "native": "Rs."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Poland",
+                "code": "PL"
+            }
+        ],
+        "code": {
+            "alphabetic": "PLN",
+            "numeric": "985"
+        },
+        "name": {
+            "full": "Polish Złoty",
+            "denoymn": "Polish",
+            "unit": {
+                "single": "Złoty",
+                "plural": "Złoty"
+            },
+            "subunit": {
+                "single": "Grosz",
+                "plural": "Grosz"
+            }
+        },
+        "symbol": {
+            "international": "zł",
+            "native": "zł"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Paraguay",
+                "code": "PY"
+            }
+        ],
+        "code": {
+            "alphabetic": "PYG",
+            "numeric": "600"
+        },
+        "name": {
+            "full": "Paraguayan Guaraní",
+            "denoymn": "Paraguayan",
+            "unit": {
+                "single": "Guaraní",
+                "plural": "Guaraníes"
+            },
+            "subunit": {
+                "single": "Céntimo",
+                "plural": "Céntimos"
+            }
+        },
+        "symbol": {
+            "international": "₲",
+            "native": "₲"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Qatar",
+                "code": "QA"
+            }
+        ],
+        "code": {
+            "alphabetic": "QAR",
+            "numeric": "634"
+        },
+        "name": {
+            "full": "Qatari Riyal",
+            "denoymn": "Qatari",
+            "unit": {
+                "single": "Riyal",
+                "plural": "Riyals"
+            },
+            "subunit": {
+                "single": "Dirham",
+                "plural": "Dirhams"
+            }
+        },
+        "symbol": {
+            "international": "QR",
+            "native": "ر.ق"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Romania",
+                "code": "RO"
+            }
+        ],
+        "code": {
+            "alphabetic": "RON",
+            "numeric": "946"
+        },
+        "name": {
+            "full": "Romanian Leu",
+            "denoymn": "Romanian",
+            "unit": {
+                "single": "Leu",
+                "plural": "Lei"
+            },
+            "subunit": {
+                "single": "Ban",
+                "plural": "Bani"
+            }
+        },
+        "symbol": {
+            "international": "Lei",
+            "native": "Lei"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Serbia",
+                "code": "RS"
+            }
+        ],
+        "code": {
+            "alphabetic": "RSD",
+            "numeric": "941"
+        },
+        "name": {
+            "full": "Serbian Dinar",
+            "denoymn": "Serbian",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Para",
+                "plural": "Para"
+            }
+        },
+        "symbol": {
+            "international": "DIN",
+            "native": "дин"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Russia",
+                "code": "RU"
+            }
+        ],
+        "code": {
+            "alphabetic": "RUB",
+            "numeric": "643"
+        },
+        "name": {
+            "full": "Russian Ruble",
+            "denoymn": "Russian",
+            "unit": {
+                "single": "Ruble",
+                "plural": "Rubles"
+            },
+            "subunit": {
+                "single": "Kopeyka",
+                "plural": "Kopecks"
+            }
+        },
+        "symbol": {
+            "international": "₽",
+            "native": "₽"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Rwanda",
+                "code": "RW"
+            }
+        ],
+        "code": {
+            "alphabetic": "RWF",
+            "numeric": "648"
+        },
+        "name": {
+            "full": "Rwandan Franc",
+            "denoymn": "Rwandan",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "FRw",
+            "native": "FRw"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SA"
+            }
+        ],
+        "code": {
+            "alphabetic": "SAR",
+            "numeric": "682"
+        },
+        "name": {
+            "full": "Saudi Riyal",
+            "denoymn": "Saudi",
+            "unit": {
+                "single": "Riyal",
+                "plural": "Riyals"
+            },
+            "subunit": {
+                "single": "Halalah",
+                "plural": "Halalas"
+            }
+        },
+        "symbol": {
+            "international": "SAR",
+            "native": "ر.س"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Solomon Islands",
+                "code": "SB"
+            }
+        ],
+        "code": {
+            "alphabetic": "SBD",
+            "numeric": "090"
+        },
+        "name": {
+            "full": "Solomon Islands Dollar",
+            "denoymn": "Solomon Islands",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "SI$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Seychelles",
+                "code": "SC"
+            }
+        ],
+        "code": {
+            "alphabetic": "SCR",
+            "numeric": "690"
+        },
+        "name": {
+            "full": "Seychellois Rupee",
+            "denoymn": "Seychellois",
+            "unit": {
+                "single": "Rupee",
+                "plural": "Rupees"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "SR",
+            "native": "Rs"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Sudan",
+                "code": "SD"
+            }
+        ],
+        "code": {
+            "alphabetic": "SDG",
+            "numeric": "938"
+        },
+        "name": {
+            "full": "Sudanese Pound",
+            "denoymn": "Sudanese",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Piastre",
+                "plural": "Piastres"
+            }
+        },
+        "symbol": {
+            "international": "LS",
+            "native": "ج.س"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Sweden",
+                "code": "SE"
+            }
+        ],
+        "code": {
+            "alphabetic": "SEK",
+            "numeric": "752"
+        },
+        "name": {
+            "full": "Swedish Krona",
+            "denoymn": "Swedish",
+            "unit": {
+                "single": "Krona",
+                "plural": "Kronor"
+            },
+            "subunit": {
+                "single": "Öre",
+                "plural": "Öre"
+            }
+        },
+        "symbol": {
+            "international": "kr",
+            "native": "kr"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Singapore",
+                "code": "SG"
+            }
+        ],
+        "code": {
+            "alphabetic": "SGD",
+            "numeric": "702"
+        },
+        "name": {
+            "full": "Singapore Dollar",
+            "denoymn": "Singapore",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "S$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Saint Helena",
+                "code": "SH-SH"
+            },
+            {
+                "name": "Ascension Island",
+                "code": "SH-AC"
+            }
+        ],
+        "code": {
+            "alphabetic": "SHP",
+            "numeric": "654"
+        },
+        "name": {
+            "full": "Saint Helena Pound",
+            "denoymn": "Saint Helena",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Penny",
+                "plural": "Pence"
+            }
+        },
+        "symbol": {
+            "international": "£",
+            "native": "£"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Sierra Leone",
+                "code": "SL"
+            }
+        ],
+        "code": {
+            "alphabetic": "SLL",
+            "numeric": "694"
+        },
+        "name": {
+            "full": "Sierra Leonean Leone",
+            "denoymn": "Sierra Leonean",
+            "unit": {
+                "single": "Leone",
+                "plural": "Leones"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Le",
+            "native": "Le"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Sierra Leone",
+                "code": "SL"
+            }
+        ],
+        "code": {
+            "alphabetic": "SLE",
+            "numeric": "925"
+        },
+        "name": {
+            "full": "Sierra Leonean Leone",
+            "denoymn": "Sierra Leonean",
+            "unit": {
+                "single": "Leone",
+                "plural": "Leones"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Le",
+            "native": "Le"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Somalia",
+                "code": "SO"
+            }
+        ],
+        "code": {
+            "alphabetic": "SOS",
+            "numeric": "706"
+        },
+        "name": {
+            "full": "Somalian Shilling",
+            "denoymn": "Somalian",
+            "unit": {
+                "single": "Shilling",
+                "plural": "Shillings"
+            },
+            "subunit": {
+                "single": "Senti",
+                "plural": "Senti"
+            }
+        },
+        "symbol": {
+            "international": "Sh.So.",
+            "native": "Sh.So."
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Suriname",
+                "code": "SR"
+            }
+        ],
+        "code": {
+            "alphabetic": "SRD",
+            "numeric": "968"
+        },
+        "name": {
+            "full": "Surinamese Dollar",
+            "denoymn": "Surinamese",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Sr$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "South Sudan",
+                "code": "SS"
+            }
+        ],
+        "code": {
+            "alphabetic": "SSP",
+            "numeric": "728"
+        },
+        "name": {
+            "full": "South Sudanese Pound",
+            "denoymn": "South Sudanese",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Piaster",
+                "plural": "Piasters"
+            }
+        },
+        "symbol": {
+            "international": "SSP",
+            "native": "SSP"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "São Tomé and Príncipe",
+                "code": "ST"
+            }
+        ],
+        "code": {
+            "alphabetic": "STN",
+            "numeric": "930"
+        },
+        "name": {
+            "full": "São Tomé and Príncipe Dobra",
+            "denoymn": "São Tomé and Príncipe",
+            "unit": {
+                "single": "Dobra",
+                "plural": "Dobras"
+            },
+            "subunit": {
+                "single": "Cêntimo",
+                "plural": "Cêntimos"
+            }
+        },
+        "symbol": {
+            "international": "Db",
+            "native": "Db"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Syria",
+                "code": "SY"
+            }
+        ],
+        "code": {
+            "alphabetic": "SYP",
+            "numeric": "760"
+        },
+        "name": {
+            "full": "Syrian Pound",
+            "denoymn": "Syrian",
+            "unit": {
+                "single": "Pound",
+                "plural": "Pounds"
+            },
+            "subunit": {
+                "single": "Piastre",
+                "plural": "Piastres"
+            }
+        },
+        "symbol": {
+            "international": "SP",
+            "native": "ل.س"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Eswatini",
+                "code": "SZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "SZL",
+            "numeric": "738"
+        },
+        "name": {
+            "full": "Swazi Lilangeni",
+            "denoymn": "Swazi",
+            "unit": {
+                "single": "Lilangeni",
+                "plural": "Emalangeni"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "E",
+            "native": "E"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Thailand",
+                "code": "TH"
+            }
+        ],
+        "code": {
+            "alphabetic": "THB",
+            "numeric": "764"
+        },
+        "name": {
+            "full": "Thai Baht",
+            "denoymn": "Thai",
+            "unit": {
+                "single": "Baht",
+                "plural": "Baht"
+            },
+            "subunit": {
+                "single": "Satang",
+                "plural": "Satang"
+            }
+        },
+        "symbol": {
+            "international": "฿",
+            "native": "฿"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Tajikistan",
+                "code": "TJ"
+            }
+        ],
+        "code": {
+            "alphabetic": "TJS",
+            "numeric": "972"
+        },
+        "name": {
+            "full": "Tajikistani Somoni",
+            "denoymn": "Tajikistani",
+            "unit": {
+                "single": "Somoni",
+                "plural": "Somoni"
+            },
+            "subunit": {
+                "single": "Diram",
+                "plural": "Dirams"
+            }
+        },
+        "symbol": {
+            "international": "SM",
+            "native": "SM"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Turkmenistan",
+                "code": "TM"
+            }
+        ],
+        "code": {
+            "alphabetic": "TMT",
+            "numeric": "934"
+        },
+        "name": {
+            "full": "Turkmenistani Manat",
+            "denoymn": "Turkmenistani",
+            "unit": {
+                "single": "Manat",
+                "plural": "Manat"
+            },
+            "subunit": {
+                "single": "Tenge",
+                "plural": "Tenge"
+            }
+        },
+        "symbol": {
+            "international": "m",
+            "native": "m"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Tunisia",
+                "code": "TN"
+            }
+        ],
+        "code": {
+            "alphabetic": "TND",
+            "numeric": "788"
+        },
+        "name": {
+            "full": "Tunisian Dinar",
+            "denoymn": "Tunisian",
+            "unit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            },
+            "subunit": {
+                "single": "Milim",
+                "plural": "Milim"
+            }
+        },
+        "symbol": {
+            "international": "DT",
+            "native": "DT"
+        },
+        "decimal": 3,
+        "subdivided": 1000
+    },
+    {
+        "entities": [
+            {
+                "name": "Tonga",
+                "code": "TO"
+            }
+        ],
+        "code": {
+            "alphabetic": "TOP",
+            "numeric": "776"
+        },
+        "name": {
+            "full": "Tongan Pa'anga",
+            "denoymn": "Tonga",
+            "unit": {
+                "single": "Pa'anga",
+                "plural": "Pa'anga"
+            },
+            "subunit": {
+                "single": "Seniti",
+                "plural": "Seniti"
+            }
+        },
+        "symbol": {
+            "international": "T$",
+            "native": "T$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Türkiye",
+                "code": "TR"
+            }
+        ],
+        "code": {
+            "alphabetic": "TRY",
+            "numeric": "949"
+        },
+        "name": {
+            "full": "Turkish Lira",
+            "denoymn": "Turkish",
+            "unit": {
+                "single": "Lira",
+                "plural": "Liralar"
+            },
+            "subunit": {
+                "single": "Kuruş",
+                "plural": "Kuruş"
+            }
+        },
+        "symbol": {
+            "international": "₺",
+            "native": "₺"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Trinidad and Tobago",
+                "code": "TT"
+            }
+        ],
+        "code": {
+            "alphabetic": "TTD",
+            "numeric": "780"
+        },
+        "name": {
+            "full": "Trinidad and Tobago Dollar",
+            "denoymn": "Trinidad and Tobago",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "TT$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Taiwan",
+                "code": "TW"
+            }
+        ],
+        "code": {
+            "alphabetic": "TWD",
+            "numeric": "901"
+        },
+        "name": {
+            "full": "New Taiwan Dollar",
+            "denoymn": "New Taiwan",
+            "unit": {
+                "single": "Yuan",
+                "plural": "Yuan"
+            },
+            "subunit": {
+                "single": "Fen",
+                "plural": "Fen"
+            }
+        },
+        "symbol": {
+            "international": "NT$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Tanzania",
+                "code": "TZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "TZS",
+            "numeric": "834"
+        },
+        "name": {
+            "full": "Tanzanian Shilling",
+            "denoymn": "Tanzanian",
+            "unit": {
+                "single": "Shilling",
+                "plural": "Shillings"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "TSh",
+            "native": "TSh"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Ukraine",
+                "code": "UA"
+            }
+        ],
+        "code": {
+            "alphabetic": "UAH",
+            "numeric": "980"
+        },
+        "name": {
+            "full": "Ukrainian Hryvnia",
+            "denoymn": "Ukrainian",
+            "unit": {
+                "single": "Hryvnia",
+                "plural": "Hryvni"
+            },
+            "subunit": {
+                "single": "Kopiyka",
+                "plural": "Kopiyky"
+            }
+        },
+        "symbol": {
+            "international": "₴",
+            "native": "₴"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Uganda",
+                "code": "UG"
+            }
+        ],
+        "code": {
+            "alphabetic": "UGX",
+            "numeric": "800"
+        },
+        "name": {
+            "full": "Ugandan Shilling",
+            "denoymn": "Ugandan",
+            "unit": {
+                "single": "Shilling",
+                "plural": "Shillings"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "USh",
+            "native": "USh"
+        },
+        "decimal": 0,
+        "subdivided": 0
+    },
+    {
+        "entities": [
+            {
+                "name": "United States",
+                "code": "US"
+            },
+            {
+                "name": "American Samoa",
+                "code": "AS"
+            },
+            {
+                "name": "British Indian Ocean Territory",
+                "code": "IO"
+            },
+            {
+                "name": "British Virgin Islands",
+                "code": "VG"
+            },
+            {
+                "name": "Caribbean Netherlands",
+                "code": "BQ"
+            },
+            {
+                "name": "Ecuador",
+                "code": "EC"
+            },
+            {
+                "name": "El Salvador",
+                "code": "SV"
+            },
+            {
+                "name": "Guam",
+                "code": "GU"
+            },
+            {
+                "name": "Marshall Islands",
+                "code": "MH"
+            },
+            {
+                "name": "Federated States of Micronesia",
+                "code": "FM"
+            },
+            {
+                "name": "Northern Mariana Islands",
+                "code": "MP"
+            },
+            {
+                "name": "Palau",
+                "code": "PW"
+            },
+            {
+                "name": "Panama",
+                "code": "PA"
+            },
+            {
+                "name": "Puerto Rico",
+                "code": "PR"
+            },
+            {
+                "name": "Timor-Leste",
+                "code": "TL"
+            },
+            {
+                "name": "Turks and Caicos Islands",
+                "code": "TC"
+            },
+            {
+                "name": "U.S. Virgin Islands",
+                "code": "VI"
+            },
+            {
+                "name": "United States Minor Outlying Islands",
+                "code": "UM"
+            }
+        ],
+        "code": {
+            "alphabetic": "USD",
+            "numeric": "840"
+        },
+        "name": {
+            "full": "United States Dollar",
+            "denoymn": "United States",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "US$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Uruguay",
+                "code": "UY"
+            }
+        ],
+        "code": {
+            "alphabetic": "UYU",
+            "numeric": "858"
+        },
+        "name": {
+            "full": "Uruguayan Peso",
+            "denoymn": "Uruguayan",
+            "unit": {
+                "single": "Peso",
+                "plural": "Pesos"
+            },
+            "subunit": {
+                "single": "Centésimo",
+                "plural": "Centésimos"
+            }
+        },
+        "symbol": {
+            "international": "$U",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Uzbekistan",
+                "code": "UZ"
+            }
+        ],
+        "code": {
+            "alphabetic": "UZS",
+            "numeric": "860"
+        },
+        "name": {
+            "full": "Uzbekistani Sum",
+            "denoymn": "Uzbekistani",
+            "unit": {
+                "single": "Sum",
+                "plural": "Sum"
+            },
+            "subunit": {
+                "single": "Tiyin",
+                "plural": "Tiyin"
+            }
+        },
+        "symbol": {
+            "international": "Sum",
+            "native": "Sum"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Venezuela",
+                "code": "VE"
+            }
+        ],
+        "code": {
+            "alphabetic": "VES",
+            "numeric": "928"
+        },
+        "name": {
+            "full": "Venezuelan Bolívar",
+            "denoymn": "Venezuelan",
+            "unit": {
+                "single": "Bolívar",
+                "plural": "Bolívares"
+            },
+            "subunit": {
+                "single": "Céntimo",
+                "plural": "Céntimos"
+            }
+        },
+        "symbol": {
+            "international": "Bs.S",
+            "native": "Bs.S"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Vietnam",
+                "code": "VN"
+            }
+        ],
+        "code": {
+            "alphabetic": "VND",
+            "numeric": "704"
+        },
+        "name": {
+            "full": "Vietnamese Đồng",
+            "denoymn": "Vietnamese",
+            "unit": {
+                "single": "Đồng",
+                "plural": "Đồng"
+            },
+            "subunit": {
+                "single": "Xu",
+                "plural": "Xu"
+            }
+        },
+        "symbol": {
+            "international": "₫",
+            "native": "₫"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Vanuatu",
+                "code": "VU"
+            }
+        ],
+        "code": {
+            "alphabetic": "VUV",
+            "numeric": "548"
+        },
+        "name": {
+            "full": "Vanuatu Vatu",
+            "denoymn": "Vanuatu",
+            "unit": {
+                "single": "Vatu",
+                "plural": "Vatu"
+            },
+            "subunit": {
+                "single": "",
+                "plural": ""
+            }
+        },
+        "symbol": {
+            "international": "VT",
+            "native": "VT"
+        },
+        "decimal": 0,
+        "subdivided": 0
+    },
+    {
+        "entities": [
+            {
+                "name": "Samoa",
+                "code": "WS"
+            }
+        ],
+        "code": {
+            "alphabetic": "WST",
+            "numeric": "882"
+        },
+        "name": {
+            "full": "Samoan Tālā",
+            "denoymn": "Samoan",
+            "unit": {
+                "single": "Tālā",
+                "plural": "Tālā"
+            },
+            "subunit": {
+                "single": "Sene",
+                "plural": "Sene"
+            }
+        },
+        "symbol": {
+            "international": "WS$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Cameroon",
+                "code": "CM"
+            },
+            {
+                "name": "Central African Republic",
+                "code": "CF"
+            },
+            {
+                "name": "Republic of the Congo",
+                "code": "CG"
+            },
+            {
+                "name": "Chad",
+                "code": "TD"
+            },
+            {
+                "name": "Equatorial Guinea",
+                "code": "GQ"
+            },
+            {
+                "name": "Gabon",
+                "code": "GA"
+            }
+        ],
+        "code": {
+            "alphabetic": "XAF",
+            "numeric": "950"
+        },
+        "name": {
+            "full": "Central African CFA Franc",
+            "denoymn": "Central African CFA",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "F.CFA",
+            "native": "F.CFA"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Anguilla",
+                "code": "AI"
+            },
+            {
+                "name": "Antigua and Barbuda",
+                "code": "AG"
+            },
+            {
+                "name": "Dominica",
+                "code": "DM"
+            },
+            {
+                "name": "Grenada",
+                "code": "GD"
+            },
+            {
+                "name": "Montserrat",
+                "code": "MS"
+            },
+            {
+                "name": "Saint Kitts and Nevis",
+                "code": "KN"
+            },
+            {
+                "name": "Saint Lucia",
+                "code": "LC"
+            },
+            {
+                "name": "Saint Vincent and the Grenadines",
+                "code": "VC"
+            }
+        ],
+        "code": {
+            "alphabetic": "XCD",
+            "numeric": "951"
+        },
+        "name": {
+            "full": "Eastern Caribbean Dollar",
+            "denoymn": "Eastern Caribbean",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "EC$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "International Monetary Fund",
+                "code": "IMF"
+            }
+        ],
+        "code": {
+            "alphabetic": "XDR",
+            "numeric": "960"
+        },
+        "name": {
+            "full": "Special Drawing Rights",
+            "denoymn": null,
+            "unit": {
+                "single": "SDR",
+                "plural": "SDR"
+            },
+            "subunit": {
+                "single": null,
+                "plural": null
+            }
+        },
+        "symbol": {
+            "international": "SDR",
+            "native": "SDR"
+        },
+        "decimal": null,
+        "subdivided": null
+    },
+    {
+        "entities": [
+            {
+                "name": "Benin",
+                "code": "BJ"
+            },
+            {
+                "name": "Burkina Faso",
+                "code": "BF"
+            },
+            {
+                "name": "Côte d'Ivoire",
+                "code": "CI"
+            },
+            {
+                "name": "Guinea-Bissau",
+                "code": "GW"
+            },
+            {
+                "name": "Mali",
+                "code": "ML"
+            },
+            {
+                "name": "Niger",
+                "code": "NE"
+            },
+            {
+                "name": "Senegal",
+                "code": "SN"
+            },
+            {
+                "name": "Togo",
+                "code": "TG"
+            }
+        ],
+        "code": {
+            "alphabetic": "XOF",
+            "numeric": "952"
+        },
+        "name": {
+            "full": "West African CFA Franc",
+            "denoymn": "West African CFA",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "F.CFA",
+            "native": "F.CFA"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "French Polynesia",
+                "code": "PF"
+            },
+            {
+                "name": "New Caledonia",
+                "code": "NC"
+            },
+            {
+                "name": "Wallis and Futuna",
+                "code": "WF"
+            }
+        ],
+        "code": {
+            "alphabetic": "XPF",
+            "numeric": "953"
+        },
+        "name": {
+            "full": "CFP Franc",
+            "denoymn": "CFP",
+            "unit": {
+                "single": "Franc",
+                "plural": "Francs"
+            },
+            "subunit": {
+                "single": "Centime",
+                "plural": "Centimes"
+            }
+        },
+        "symbol": {
+            "international": "₣",
+            "native": "₣"
+        },
+        "decimal": 0,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Yemen",
+                "code": "YE"
+            }
+        ],
+        "code": {
+            "alphabetic": "YER",
+            "numeric": "886"
+        },
+        "name": {
+            "full": "Yemeni Rial",
+            "denoymn": "Yemeni",
+            "unit": {
+                "single": "Rial",
+                "plural": "Rials"
+            },
+            "subunit": {
+                "single": "Dinar",
+                "plural": "Dinars"
+            }
+        },
+        "symbol": {
+            "international": "YRI",
+            "native": "﷼"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "South Africa",
+                "code": "ZA"
+            },
+            {
+                "name": "Eswatini",
+                "code": "SZ"
+            },
+            {
+                "name": "Lesotho",
+                "code": "LS"
+            },
+            {
+                "name": "Namibia",
+                "code": "NA"
+            }
+        ],
+        "code": {
+            "alphabetic": "ZAR",
+            "numeric": "710"
+        },
+        "name": {
+            "full": "South African Rand",
+            "denoymn": "South African",
+            "unit": {
+                "single": "Rand",
+                "plural": "Rand"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "R",
+            "native": "R"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Zambia",
+                "code": "ZM"
+            }
+        ],
+        "code": {
+            "alphabetic": "ZMW",
+            "numeric": "967"
+        },
+        "name": {
+            "full": "Zambian Kwacha",
+            "denoymn": "Zambian",
+            "unit": {
+                "single": "Kwacha",
+                "plural": "Kwacha"
+            },
+            "subunit": {
+                "single": "Ngwee",
+                "plural": "Ngwee"
+            }
+        },
+        "symbol": {
+            "international": "ZK",
+            "native": "ZK"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    },
+    {
+        "entities": [
+            {
+                "name": "Zimbabwe",
+                "code": "ZW"
+            }
+        ],
+        "code": {
+            "alphabetic": "ZWL",
+            "numeric": "932"
+        },
+        "name": {
+            "full": "Zimbabwean Dollar",
+            "denoymn": "Zimbabwean",
+            "unit": {
+                "single": "Dollar",
+                "plural": "Dollars"
+            },
+            "subunit": {
+                "single": "Cent",
+                "plural": "Cents"
+            }
+        },
+        "symbol": {
+            "international": "Z$",
+            "native": "$"
+        },
+        "decimal": 2,
+        "subdivided": 100
+    }
+]
