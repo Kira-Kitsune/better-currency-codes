@@ -10,7 +10,7 @@
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
     "scripts": {
-        "build": "tsup src/index.ts --format cjs,esm --dts --target es2022",
+        "build": "tsup src/index.ts",
         "release": "npm run build && changeset publish",
         "lint": "tsc"
     },
@@ -28,7 +28,7 @@
     "devDependencies": {
         "@changesets/cli": "^2.26.1",
         "tsup": "^6.7.0",
-        "typescript": "^5.0.3"
+        "typescript": "^5.0.4"
     },
     "files": [
         "dist/**/*"
